@@ -66,6 +66,6 @@ Add your skills in the list below, if you don't know the name of the badge, you 
 
 ## Follow me 👉
 
-<br/>
+Replace `<your-linkedin-url>` by your `linkedin url` and `<your-gmail>` by your `gmail` if you want to display your social media else remove this section <br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%B4me-sarazin-660380255/)
 [![Gmail](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:<sarazincome@gmail.com>)
