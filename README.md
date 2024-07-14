@@ -25,7 +25,7 @@ Replace `<your-name>` in url by your `github username` if you want to display yo
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comesarazin&layout=compact&langs_count=12&theme=github_dark&card_width=445)
 <br/>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ComeSarazin&layout=compact&langs_count=12&theme=github_dark)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=ComeSarazin&layout=compact&langs_count=12&theme=github_dark)
 
 <br>
 
