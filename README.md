@@ -18,15 +18,20 @@
 
 ## My stats⚡️
 
+Replace `<your-name>` in url by your `github username` if you want to display your Github Stats else remove this section
 <br/>
 <br/>
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Comesarazin&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comesarazin&layout=compact&langs_count=12&theme=github_dark&card_width=445)
 <br/>
+<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ComeSarazin&layout=compact&langs_count=12&theme=github_dark)-->
+
+<br> 
 
 ## My skills 💻
 
+Add your skills in the list below, if you don't know the name of the badge, you can find it on repository [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 
 ### Languages
 
