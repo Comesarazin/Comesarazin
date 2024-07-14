@@ -1,17 +1,31 @@
-- Hi, i'm `<your name>`, i'm a french web developer 👋
-- `<explain what do you love. Ex: I love front-end development and i'm interested by back-end development also👨‍💻>`
-- On my GitHub profile, I have school projects and personal projects in different technologies
+-Bonjour, je m'appelle Côme SARAZIN, je suis un développeur web 👋
+- 👋 Salut ! Je suis Côme Sarazin,
+
+🌍 Basé à Bordeaux, France
+💻 Développeur Web passionné, actuellement en recherche d'une alternance pour septembre 2024.
+📚 Étudiant à YNOV en Bachelor 3/Expert informatique et systèmes d'information.
+
+🎯 Projets récents :
+
+- Blog | BUMP : Création d'un blog personnel où les utilisateurs peuvent publier et commenter des articles.
+- Hackathon L'Oréal Paris : Finaliste avec un projet utilisant l'IA pour améliorer la valeur dans le domaine de la beauté.
+- Makesense : Développement d'une plateforme de gestion de décisions pour une association.
+
+🌟 J'adore l'innovation et je suis toujours à la recherche de nouveaux défis à relever.
+
+📫 N'hésitez pas à me contacter : sarazincome@gmail.com
+- Sur mon profil GitHub, j'ai des projets scolaires et des projets personnels dans différentes technologies
 
 ## My stats⚡️
 
 Replace `<your-name>` in url by your `github username` if you want to display your Github Stats else remove this section
 <br/>
 <br/>
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=your-name&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?Comesarazin=your-name&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-name&layout=compact&langs_count=12&theme=github_dark&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Comesarazin=your-name&layout=compact&langs_count=12&theme=github_dark&card_width=445)
 <br/>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ypur-name&layout=compact&langs_count=12&theme=github_dark)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Comesarazin=ypur-name&layout=compact&langs_count=12&theme=github_dark)
 
 <br>
 
