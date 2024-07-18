@@ -17,8 +17,6 @@
 
 ## My stats⚡️
 
-Replace `<your-name>` in url by your `github username` if you want to display your Github Stats else remove this section
-<br/>
 <br/>
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Comesarazin&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
 <br/>
