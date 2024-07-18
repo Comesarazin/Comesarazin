@@ -1,8 +1,8 @@
 - 👋 Salut ! Je suis Côme Sarazin, suis un développeur web 👋
 
-🌍 Basé à Bordeaux, France
-💻 Développeur Web passionné, actuellement en recherche d'une alternance pour septembre 2024.
-📚 Étudiant à YNOV en Bachelor 3/Expert informatique et systèmes d'information.
+🌍 Basé à Bordeaux, France <br/>
+💻 Développeur Web passionné, actuellement en recherche d'une alternance pour septembre 2024. <br/>
+📚 Étudiant à YNOV en Bachelor 3/Expert informatique et systèmes d'information.<br/>
 
 🎯 Projets récents :
 
