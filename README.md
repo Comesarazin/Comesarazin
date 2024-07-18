@@ -1,5 +1,4 @@
--Bonjour, je m'appelle Côme SARAZIN, je suis un développeur web 👋
-- 👋 Salut ! Je suis Côme Sarazin,
+- 👋 Salut ! Je suis Côme Sarazin, suis un développeur web 👋
 
 🌍 Basé à Bordeaux, France
 💻 Développeur Web passionné, actuellement en recherche d'une alternance pour septembre 2024.
